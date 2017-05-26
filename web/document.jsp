@@ -34,7 +34,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     	<jsp:include page="header.jsp" />
     	
     	<div class="container">
-    		<div class="row well">
+    		<div class="well">
 
                 <h3>About PreTATA</h3>
                 <p>It is necessary and essential to discovery protein function from the novel primary sequences. Wet lab experimental procedures are not only time-consuming, but also costly, so predicting protein structure and function reliably based only on amino acid sequence has significant value.TATA-binding protein (TBP) is a kind of DNA binding protein, which plays a key role in the transcrip-tion regulation. Our study proposed an automatic approach for identifying TATA-binding proteins effi-ciently, accurately, and conveniently. This method would guide for the special protein identificationwith computational intelligence strategies.</p>
